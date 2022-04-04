@@ -8,3 +8,5 @@
 - Used React Recharts for showing Charts in the Website.
 
 ### Website Link:
+
+https://clinquant-medovik-343e0a.netlify.app/
