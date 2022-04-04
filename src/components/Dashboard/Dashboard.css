@@ -1,0 +1,15 @@
+.charts {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.chart-style {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid grey;
+}
+.chart-style h3 {
+  text-align: center;
+}
