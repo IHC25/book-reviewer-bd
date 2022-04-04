@@ -8,7 +8,7 @@ const CustomerReviews = () => {
   const [reviews, setReviews] = useReviews();
   return (
     <div className="customer-reviews">
-      <h2>Customer Reviews: {reviews.length}</h2>
+      <h2>Readers Reviews: {reviews.length}</h2>
       {reviews.slice(0, 3).map((review) => (
         <ReviewItem reviews={review} key={reviews.id}></ReviewItem>
       ))}
