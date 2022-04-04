@@ -1,9 +1,10 @@
 import React from "react";
+import errorMessage from "../../images/error.jpg";
 
 const NotFound = () => {
   return (
     <div>
-      <h1>404</h1>
+      <img src={errorMessage} alt="" />
       <h2>Page Not Found</h2>
     </div>
   );
